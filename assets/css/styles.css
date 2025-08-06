@@ -1,0 +1,9 @@
+.degrade {
+  width: 100%;
+  height: 600px;
+  background: linear-gradient(to bottom, #f5f3ff, #ffffff);
+}
+
+.h-384{
+  height: 384px;
+}
